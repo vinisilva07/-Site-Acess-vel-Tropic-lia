@@ -151,6 +151,16 @@ h2 {
     z-index: 1000;
 }
 
+.opcoes-acessibilidade{
+    margin-top:10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.opcoes-acessibilidade button{
+    margin-bottom: 5px;
+}
+
 .rotacao-botao{
     transform: rotate(-90deg);
     transform-origin: right center;
